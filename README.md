@@ -12,11 +12,12 @@
 <br>
 🎵 •  Favorite Song: 505**
 
-# Coolio Servers:
-<strong>🏫 • Binly's Academy</strong>
+<h3 align="left">Coolio Servers:</h3>
+<p align="left">
+<h3><strong>🏫 • Binly's Academy</strong></h3>
 <a href="https://discord.gg/https://discord.gg/binlys-academy" target="blank"><img align="center" src="https://github.com/therealtoast5604/therealtoast5604/blob/main/discord-icon-svgrepo-com.svg" alt="https://discord.gg/binlys-academy" height="30" width="40" /></a>
 <br>
-<strong>💻 • The Modding Den</strong>
+<h3><strong>💻 • The Modding Den</strong></h3>
 <a href="https://discord.gg/vrcheats" target="blank"><img align="center" src="https://github.com/therealtoast5604/therealtoast5604/blob/main/discord-icon-svgrepo-com.svg" alt="https://discord.gg/vrcheats" height="30" width="40" /></a>
 </p>
 

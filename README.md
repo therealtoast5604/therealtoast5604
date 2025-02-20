@@ -17,7 +17,5 @@
 
 <h3 align="left">Languages I Use:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/therealtoast5604/therealtoast5604/blob/main/python-svgrepo-com.svg" alt="python" width="80" height="80"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therealtoast5604&show_icons=true&theme=tokyonight&bg_color=000000&locale=en" alt="therealtoast5604" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealtoast5604&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="therealtoast5604" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=therealtoast5604&show_icons=true&theme=tokyonight&bg_color=000000&locale=en" alt="therealtoast5604" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealtoast5604&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="therealtoast5604" />

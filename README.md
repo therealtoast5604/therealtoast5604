@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealtoast5604&label=Profile%20views&color=fb6cff&style=flat" alt="therealtoast5604" /> </p>
 
-- 🤪 Silly Projects [MeowTool](https://github.com/therealtoast5604/MeowTool)
+- 🤪 Silly Projects: [MeowTool](https://github.com/therealtoast5604/MeowTool)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning: **Python**
 
 <h3 align="left">Coolio Servers:</h3>
 <p align="left">

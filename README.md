@@ -8,8 +8,8 @@
 
 <h3 align="left">Coolio Servers:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/binlys-academy" target="blank"><img align="center" src="https://github.com/therealtoast5604/therealtoast5604/blob/main/discord-round-color-icon.png" alt="https://discord.gg/binlys-academy" height="30" width="40" /></a>
-<a href="https://discord.gg/vrcheats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/vrcheats" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/binlys-academy" target="blank"><img align="center" src="https://github.com/therealtoast5604/therealtoast5604/blob/main/discord-icon-svgrepo-com.svg" alt="https://discord.gg/binlys-academy" height="30" width="40" /></a>
+<a href="https://discord.gg/vrcheats" target="blank"><img align="center" src="https://github.com/therealtoast5604/therealtoast5604/blob/main/discord-icon-svgrepo-com.svg" alt="https://discord.gg/vrcheats" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

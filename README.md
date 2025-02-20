@@ -9,13 +9,13 @@
 
 <h3 align="left">Coolio Servers:</h3>
 <p align="left">
-- 🏫 Binly's Academy
+- [🏫 Binly's Academy](https://discord.gg/https://discord.gg/binlys-academy)
 <a href="https://discord.gg/https://discord.gg/binlys-academy" target="blank"><img align="center" src="https://github.com/therealtoast5604/therealtoast5604/blob/main/discord-icon-svgrepo-com.svg" alt="https://discord.gg/binlys-academy" height="30" width="40" /></a>
-- 💻 The Modding Den
+- [💻 The Modding Den](https://discord.gg/vrcheats)
 <a href="https://discord.gg/vrcheats" target="blank"><img align="center" src="https://github.com/therealtoast5604/therealtoast5604/blob/main/discord-icon-svgrepo-com.svg" alt="https://discord.gg/vrcheats" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages I Use:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/therealtoast5604/therealtoast5604/blob/main/python-svgrepo-com.svg" alt="python" width="80" height="80"/> </a> </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=therealtoast5604&show_icons=true&theme=tokyonight&bg_color=000000&locale=en" alt="therealtoast5604" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=therealtoast5604&show_icons=true&theme=tokyonight&bg_color=000000&locale=en" alt="therealtoast5604" /></p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealtoast5604&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="therealtoast5604" />

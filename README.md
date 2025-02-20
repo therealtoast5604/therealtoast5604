@@ -21,10 +21,10 @@
 <a href="https://discord.gg/vrcheats" target="blank"><img align="center" src="https://github.com/therealtoast5604/therealtoast5604/blob/main/discord-icon-svgrepo-com.svg" alt="https://discord.gg/vrcheats" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages I Use:</h3>
+# Languages I Use
 <a href="https://www.python.org" target="blank"><img align="center" src="https://github.com/therealtoast5604/therealtoast5604/blob/main/python-svgrepo-com.svg" alt="https://www.python.org" height="80" width="80" /></a>
 
-<h3 align="left">Github Stats: </h3>                                                                                  
+# GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealtoast5604&label=Profile%20views&color=fb6cff&style=flat" alt="therealtoast5604" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=therealtoast5604&show_icons=true&theme=tokyonight&bg_color=000000&locale=en" alt="therealtoast5604" /></p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealtoast5604&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="therealtoast5604" />

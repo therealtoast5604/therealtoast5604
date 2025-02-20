@@ -1,12 +1,11 @@
 <h1 align="center">👋 Hey! I'm toast, A Professional Skid.</h1>
 <p align="left"> <a href="https://guns.lol/therealtoast__" target="_blank" rel="noreferrer"> <img src="https://github.com/therealtoast5604/therealtoast5604/blob/main/IMG_8611-modified.png" alt="pfp" width="80" height="80"/> </a> </p>
 
-<h3 align="left">About Me:</h3>
-📏 •  **Straight*
-🎂 •  **Birthday <t:1748552400:R>**
-🤪 • Silly Projects: [MeowTool](https://github.com/therealtoast5604/MeowTool)
-💻 • Learning Python
-🎵 •  **Favorite Song: 505**
+**📏 •  Straight
+🎂 •  Birthday <t:1748552400:R>
+🤪 •  Silly Projects: [MeowTool](https://github.com/therealtoast5604/MeowTool)
+💻 •  Learning Python
+🎵 •  Favorite Song: 505**
 
 <h3 align="left">Coolio Servers:</h3>
 <p align="left">

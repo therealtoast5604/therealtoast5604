@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey! I'm toast, A Professional Skid.</h1>
-<p align="left"> <a href="https://guns.lol/therealtoast__" target="_blank" rel="noreferrer"> <img src="https://github.com/therealtoast5604/therealtoast5604/blob/main/IMG_8611.jpeg" alt="python" width="80" height="80"/> </a> </p>
+<p align="left"> <a href="https://guns.lol/therealtoast__" target="_blank" rel="noreferrer"> <img src="https://github.com/therealtoast5604/therealtoast5604/blob/main/IMG_8611-modified.png" alt="pfp" width="80" height="80"/> </a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=therealtoast5604&label=Profile%20views&color=fb6cff&style=flat" alt="therealtoast5604" />hhi</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=therealtoast5604&label=Profile%20views&color=fb6cff&style=flat" alt="therealtoast5604" /></p>
 
 - 🤪 Silly Projects: [MeowTool](https://github.com/therealtoast5604/MeowTool)
 

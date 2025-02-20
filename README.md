@@ -4,7 +4,7 @@
 # About Me:
 **📏 •  Straight
 <br>
-🎂 •  Birthday <t:1748552400:R>
+🎂 •  Birthday May 30
 <br> 
 🤪 •  Silly Projects: [MeowTool](https://github.com/therealtoast5604/MeowTool)
 <br>

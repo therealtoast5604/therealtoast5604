@@ -9,7 +9,7 @@
 
 <h3 align="left">Coolio Servers:</h3>
 <p align="left">
-- [🏫 Binly's Academy](https://discord.gg/https://discord.gg/binlys-academy)
+- [Binly's Academy](https://discord.gg/https://discord.gg/binlys-academy)
 <a href="https://discord.gg/https://discord.gg/binlys-academy" target="blank"><img align="center" src="https://github.com/therealtoast5604/therealtoast5604/blob/main/discord-icon-svgrepo-com.svg" alt="https://discord.gg/binlys-academy" height="30" width="40" /></a>
 - [💻 The Modding Den](https://discord.gg/vrcheats)
 <a href="https://discord.gg/vrcheats" target="blank"><img align="center" src="https://github.com/therealtoast5604/therealtoast5604/blob/main/discord-icon-svgrepo-com.svg" alt="https://discord.gg/vrcheats" height="30" width="40" /></a>

@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey! I'm toast, A Professional Skid.</h1>
-<p align="left"> <a href="https://guns.lol/therealtoast__" target="_blank" rel="noreferrer"> <img src="https://github.com/therealtoast5604/therealtoast5604/blob/main/IMG_8611-modified.png" alt="pfp" width="80" height="80"/> </a> </p>
+<p align="left"> <a href="https://guns.lol/therealtoast__" target="_blank" rel="noreferrer"> <img src="https://github.com/therealtoast5604/therealtoast5604/blob/main/pfp.png" alt="pfp" width="80" height="80"/> </a> </p>
 
 # About Me:
 **📏 •  Straight
